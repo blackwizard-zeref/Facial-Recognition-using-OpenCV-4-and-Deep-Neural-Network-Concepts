@@ -20,4 +20,5 @@ after successful execution of step3.sh... execute step4.sh
 Finally program is ready to recognize users.
 
 Note: Before executing the Project Download openface_nn4.small2.v1.t7 file form the link below and place it out in the project folder with other files ( step1.sh,...).
+
 Link: https://drive.google.com/file/d/1-PqIduHuxuZK1SwkL6AooVx_xZXxxofe/view?usp=sharing 
